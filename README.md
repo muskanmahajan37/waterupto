@@ -6,5 +6,5 @@ I am an active competitive programmer in my free time and an open-source contrib
 
 - 👯 I’m looking to collaborate on projects, hackathons and novel research ideas!
 
-- 📫 How to reach me: Feel free to message me on [LinkedIn](https://www.linkedin.com/in/waterupto/)!
+- 📫 How to reach me: Feel free to message me on [LinkedIn](https://www.linkedin.com/in/nitishc0409/)!
 
