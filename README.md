@@ -1,10 +1,7 @@
-Greetings! I am Nitish Chaturvedi, a sophomore at the SRM Institute of Technology, Chennai, pursuing Computer Science as a major. I like to craft beautiful, robust applications that live on the Internet in the field of artificial intelligence.  
+### Hello friends! 👋	👩🏾‍💻
 
-I am an active competitive programmer in my free time and an open-source contributor as well. In my leisure time, I enjoy football, cinema, and nature. 
-
-- 🔭 I’m currently working on Machine Learning, Deep Learning, Computer Vision, Probability, and Statistics!
-
-- 👯 I’m looking to collaborate on projects, hackathons and novel research ideas!
-
-- 📫 How to reach me: Feel free to message me on [LinkedIn](https://www.linkedin.com/in/nitishc0409/)!
+- 🌱 I’m currently learning how to make machine learning work in the real world!
+- 💬 Ask me about machine learning, deep learning, and systems for learning from data at scale.
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I like to write. You can read some of my essays [here](https://medium.com/@waterupto) and follow me on [Twitter](https://twitter.com/waterupto).
 
